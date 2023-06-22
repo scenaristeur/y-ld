@@ -39,7 +39,7 @@ io.on('connection', (socket) => {
     });
 
     socket.on('command', (cmd) => {
-        system.onCommand(cmd)
+        system.onCommand(cmd.trim())
     });
 }
 );
