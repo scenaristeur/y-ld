@@ -39,3 +39,5 @@ npm run dev
 # 25 basic bash commands
 - https://www.educative.io/blog/bash-shell-command-cheat-sheet
 - bash https://www.gnu.org/software/bash/manual/bash.pdf
+
+- nodemon .cjs https://github.com/remy/nodemon/issues/1954#issuecomment-972648177
